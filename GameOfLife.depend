@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359735870 source:/home/vincent/Programmation/C-C++/GameOfLife/main.cpp
+	"include/World.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1359732529 source:/home/vincent/Programmation/C-C++/GameOfLife/src/World.cpp
+	"../include/World.hpp"
+	<iostream>
+
+1359733462 /home/vincent/Programmation/C-C++/GameOfLife/include/World.hpp
+	<SFML/Graphics.hpp>
+
